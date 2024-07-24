@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: edcc471f020564c45b9b3775feae815c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - purpleSoul: {instanceID: 0}
+  - lanes: {instanceID: 0}
+  - damaged: {fileID: 947779007, guid: 59e7658b2763ad14e9096d7b9be9aa88, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
