@@ -18,6 +18,7 @@ public class MainScript : MonoBehaviour
         turn = "Player";
         FAIM = 1;
         player = GameObject.FindWithTag("Player");
+        QualitySettings.vSyncCount = 0;
         Application.targetFrameRate = 30;
         soundEffect = GetComponents<AudioSource>()[1];
         changeActionSfx = audioClip1;
